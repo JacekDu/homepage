@@ -12,5 +12,10 @@ The website is constantly improved with the knowledge and skills acquired on an 
 
 So far in Polish only.
 
-##Feature used:
+## Tools Used
 
+- HTML - Living Standard,
+- CSS,
+- Javascript - ECMAScript 2020,
+- BEM convention,
+- Normalise.css
