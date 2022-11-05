@@ -11,3 +11,6 @@ This is the result of my participation in the course at [YouCode - Internet Prog
 The website is constantly improved with the knowledge and skills acquired on an ongoing basis during the course and is not the final version as yet.
 
 So far in Polish only.
+
+##Feature used:
+
