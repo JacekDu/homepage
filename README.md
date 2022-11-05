@@ -18,4 +18,5 @@ So far in Polish only.
 - CSS - Selectors API Level 1,
 - Javascript - ECMAScript 2020,
 - BEM convention,
-- Normalise.css
+- Normalise.css,
+- The Open Graph Protocol.
