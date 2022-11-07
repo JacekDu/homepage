@@ -1,3 +1,7 @@
+function welcome () {
+    console.log("Witam Tych, którzy tutaj zaglądają!");
+}
+welcome();
 
 let button = document.querySelector(".button");
 let body = document.querySelector(".body");
@@ -7,5 +11,4 @@ button.addEventListener("click", () => {
     body.classList.toggle("body__dark");
 
     themeName.innerText = body.classList.contains("body__dark") ? "jaśniejszy" : "ciemniejszy";
-
 });
