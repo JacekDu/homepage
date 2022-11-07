@@ -6,8 +6,8 @@
     const toggleBackground = () => {
         const body = document.querySelector(".js-body");
         const themeName = document.querySelector(".themeName");
-        body.classList.toggle("body__dark");
-        themeName.innerText = body.classList.contains("body__dark") ? "jaśniejszy" : "ciemniejszy";
+        body.classList.toggle("body--dark");
+        themeName.innerText = body.classList.contains("body--dark") ? "jaśniejszy" : "ciemniejszy";
     };
     
     const init = () => {
