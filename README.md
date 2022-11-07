@@ -15,7 +15,7 @@ So far in Polish only.
 ## Tools utilised:
 
 - HTML - Living Standard,
-- CSS - Selectors API Level 1,
+- CSS,
 - Javascript - ECMAScript 2020,
 - BEM convention,
 - Normalise.css,
