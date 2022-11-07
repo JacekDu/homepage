@@ -12,10 +12,11 @@ The website is constantly improved with the knowledge and skills acquired on an 
 
 So far in Polish only.
 
-## Tools Used
+## Tools utilised:
 
 - HTML - Living Standard,
 - CSS - Selectors API Level 1,
 - Javascript - ECMAScript 2020,
 - BEM convention,
-- Normalise.css
+- Normalise.css,
+- The Open Graph Protocol.
