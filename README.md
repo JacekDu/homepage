@@ -4,6 +4,8 @@
 
 https://jacekdu.github.io/homepage/
 
+![Frontpage](images/front_page_500.png)
+
 ## Description:
 
 This is the result of my participation in the course at [YouCode - Internet Programming School](https://youcode.pl).
