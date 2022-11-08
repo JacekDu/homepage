@@ -67,25 +67,20 @@ html {
 }
 
 .main {
-    padding: 10px 20px;
+    margin: 0 20px;
 }
 
 .section__title {
     background-color: rgb(192, 191, 191);
     text-indent: 15px;
     border-top-right-radius: 25px;
+    margin: 0 20px;
     outline: 1px solid rgb(11, 11, 11);
     box-shadow: 15px 7px 29px rgb(115 110 117 / 91%);
-    padding: 10px 0;
 }
 
 .section__listItem {
     margin: 10px 30px;
-}
-
-.table {
-    border-collapse: collapse;
-    width: 100%;
 }
 
 .table__caption {
@@ -93,6 +88,11 @@ html {
     text-align: right;
     margin: 1px 0 10px;
 }
+
+.table {
+    border-collapse: collapse;
+    width: 100%;
+    }
 
 .table__header {
     background-color: rgb(151, 146, 146);
@@ -112,7 +112,7 @@ html {
     text-align: center;
 }
 
-.table__ccontainer {
+.scrollableContainer {
     overflow-x: auto;
 }
 
