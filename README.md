@@ -10,12 +10,14 @@ This is the result of my participation in the course at [YouCode - Internet Prog
 
 The website is constantly improved with the knowledge and skills acquired on an ongoing basis during the course and is not the final version as yet.
 
+The top-left corner button toggles background color.
+
 So far in Polish only.
 
 ## Tools utilised:
 
 - HTML - Living Standard,
-- CSS - Selectors API Level 1,
+- CSS,
 - Javascript - ECMAScript 2020,
 - BEM convention,
 - Normalise.css,
