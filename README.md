@@ -16,7 +16,7 @@ The top-left corner button toggles background color.
 
 So far in Polish only.
 
-## Tools utilised:
+## Tools used:
 
 - HTML - Living Standard,
 - CSS,
