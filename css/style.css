@@ -1,0 +1,125 @@
+html {
+    box-sizing: border-box;
+    background-color: rgb(244, 244, 244);
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    background-color: rgb(227, 227, 230);
+    margin: 0 auto;
+    max-width: 1000px;
+    font-family: 'Lato', sans-serif;
+}
+
+.body--dark {
+    background: rgb(178, 177, 177);
+    color: rgb(255, 255, 255);
+    margin: 0 auto;
+    max-width: 1000px;
+    font-family: 'Lato', sans-serif;   
+}
+
+.button {
+    color: #fff;
+    background: rgb(130, 129, 129);
+    padding: 5px;
+}
+
+.header__title, .header__subTitle {
+    display: block;
+    text-align: center;
+}
+
+.header__picture {
+    display: block;
+    margin: 0 auto;
+    box-shadow: 15px 13px 29px rgb(115 110 117 / 91%);
+}
+
+.nav {
+    display: block;    
+}
+
+.nav__list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 25px;
+} 
+
+.nav__listItem {
+    display: block;
+    text-decoration: none;
+    margin: 10px 0;
+}
+
+.nav__listItem:hover {
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+.nav__item:active {
+    outline: 1px solid rgb(69, 68, 68);
+    color: rgb(243, 242, 242);
+}
+
+.main {
+    margin: 0 20px;
+}
+
+.section__title {
+    background-color: rgb(192, 191, 191);
+    text-indent: 15px;
+    border-top-right-radius: 25px;
+    margin: 0 20px;
+    outline: 1px solid rgb(11, 11, 11);
+    box-shadow: 15px 7px 29px rgb(115 110 117 / 91%);
+}
+
+.section__listItem {
+    margin: 10px 30px;
+}
+
+.table__caption {
+    caption-side: bottom;
+    text-align: right;
+    margin: 1px 0 10px;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 100%;
+    }
+
+.table__header {
+    background-color: rgb(151, 146, 146);
+}
+
+.table__row:nth-child(even) {
+    background-color: rgb(176, 175, 175);
+}
+
+.table__row:hover {
+    background: rgb(201, 200, 200);
+}
+
+.table__cell {
+    border: 1px solid rgb(14, 13, 13);
+    padding: 5px;
+    text-align: center;
+}
+
+.scrollableContainer {
+    overflow-x: auto;
+}
+
+.footer__text {
+    display: block;   
+    text-align: center;
+    padding: 15px 0;
+    color: rgb(255, 255, 255);
+    background-color: rgb(148, 148, 148);
+}  
